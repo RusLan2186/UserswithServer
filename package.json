@@ -2,8 +2,9 @@
   "name": "photo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://https://github.com/RusLan2186/UserswithServer",
   "dependencies": {
-    "homepage": "https://https://github.com/RusLan2186/UserswithServer",
+  
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
