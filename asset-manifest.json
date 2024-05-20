@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RusLan2186.github.io/UserswithServer/static/css/main.69e08595.css",
-    "main.js": "/RusLan2186.github.io/UserswithServer/static/js/main.36afdf52.js",
-    "static/js/787.c84cbe2d.chunk.js": "/RusLan2186.github.io/UserswithServer/static/js/787.c84cbe2d.chunk.js",
-    "index.html": "/RusLan2186.github.io/UserswithServer/index.html",
-    "main.69e08595.css.map": "/RusLan2186.github.io/UserswithServer/static/css/main.69e08595.css.map",
-    "main.36afdf52.js.map": "/RusLan2186.github.io/UserswithServer/static/js/main.36afdf52.js.map",
-    "787.c84cbe2d.chunk.js.map": "/RusLan2186.github.io/UserswithServer/static/js/787.c84cbe2d.chunk.js.map"
+    "main.css": "/UserswithServer/static/css/main.69e08595.css",
+    "main.js": "/UserswithServer/static/js/main.003f6f7f.js",
+    "static/js/787.c84cbe2d.chunk.js": "/UserswithServer/static/js/787.c84cbe2d.chunk.js",
+    "index.html": "/UserswithServer/index.html",
+    "main.69e08595.css.map": "/UserswithServer/static/css/main.69e08595.css.map",
+    "main.003f6f7f.js.map": "/UserswithServer/static/js/main.003f6f7f.js.map",
+    "787.c84cbe2d.chunk.js.map": "/UserswithServer/static/js/787.c84cbe2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69e08595.css",
-    "static/js/main.36afdf52.js"
+    "static/js/main.003f6f7f.js"
   ]
 }
